@@ -2,8 +2,6 @@
  This project focuses on recognizing Arabic Alphabets Sign Language using a Convolutional Neural Network (CNN) implemented in PyTorch.
 
 
-This project focuses on recognizing Arabic Alphabets Sign Language using a Convolutional Neural Network (CNN) implemented in PyTorch.
-
 ## Dataset
 
 The project uses the **ArASL (Arabic Alphabets Sign Language Dataset)**.
