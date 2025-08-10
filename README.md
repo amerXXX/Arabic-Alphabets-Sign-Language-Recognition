@@ -18,4 +18,5 @@ The project uses the **ArASL (Arabic Alphabets Sign Language Dataset)**.
 ## Model
 
 The project implements a CNN model using PyTorch. The architecture includes convolutional layers, pooling layers, and fully connected layers.
-ontaining the code for data loading, exploration, model building, training, and evaluation. (Remember to replace `day1_3_EX1_SignLang_CNN.ipynb` with the actual file name).
+ontaining the code for data loading, exploration, model building, training, and evaluation. 
+
